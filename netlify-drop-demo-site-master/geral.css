@@ -1,0 +1,43 @@
+.zap{
+position:  fixed;
+bottom: 5px;
+left: 10px;
+cursor: pointer;
+}
+
+.imagem{
+	height: 500px;
+}
+
+.imagem3{
+	height: 90px;
+
+}
+
+.texticon{
+	margin-top: -495px;
+	margin-left: 510px;
+	font-size: 50px;
+	font-family: arial;
+	padding: 6px;
+	background-color: lightgreen;
+
+	
+}
+
+.texticon2{
+	
+	margin-left: 510px;
+	font-size: 50px;
+	font-family: arial;
+	padding: 6px;
+	background-color: lightgreen;
+	
+}
+
+.texticon3{
+	margin-left: 30px;
+	margin-bottom: -100px;
+	
+	
+}
